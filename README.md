@@ -6,4 +6,4 @@ Complete project details: https://RandomNerdTutorials.com/esp32-status-indicator
 
 Watch the video tutorial: https://youtu.be/JrhQ1RCEa54
 
-[![Project Image]()](https://RandomNerdTutorials.com/esp32-status-indicator-sensor-pcb/)
+[![Project Image](https://raw.githubusercontent.com/RuiSantosdotme/esp32-status-pcb/main/Images/ESP32-WiFi-Manager-Neopixel-Project.jpg)](https://RandomNerdTutorials.com/esp32-status-indicator-sensor-pcb/)
